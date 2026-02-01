@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydub
+SpeechRecognition
+pyttsx3
+requests
+python-multipart
